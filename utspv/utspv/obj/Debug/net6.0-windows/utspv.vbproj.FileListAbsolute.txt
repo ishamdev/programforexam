@@ -1,0 +1,17 @@
+C:\Users\wewfa\source\repos\utspv\utspv\bin\Debug\net6.0-windows\utspv.exe
+C:\Users\wewfa\source\repos\utspv\utspv\bin\Debug\net6.0-windows\utspv.deps.json
+C:\Users\wewfa\source\repos\utspv\utspv\bin\Debug\net6.0-windows\utspv.runtimeconfig.json
+C:\Users\wewfa\source\repos\utspv\utspv\bin\Debug\net6.0-windows\utspv.dll
+C:\Users\wewfa\source\repos\utspv\utspv\bin\Debug\net6.0-windows\utspv.pdb
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.vbproj.AssemblyReference.cache
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.Form1.resources
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.vbproj.GenerateResource.cache
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.AssemblyInfoInputs.cache
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.AssemblyInfo.vb
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.vbproj.CoreCompileInputs.cache
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.dll
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\refint\utspv.dll
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.pdb
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\utspv.genruntimeconfig.cache
+C:\Users\wewfa\source\repos\utspv\utspv\obj\Debug\net6.0-windows\ref\utspv.dll
